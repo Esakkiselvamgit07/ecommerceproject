@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/ecommerceproject/static/css/main.a86b1e17.css",
-    "main.js": "/ecommerceproject/static/js/main.7300334d.js",
+    "main.css": "/ecommerceproject/static/css/main.f4f8476c.css",
+    "main.js": "/ecommerceproject/static/js/main.c79e269f.js",
     "static/media/samsung .png": "/ecommerceproject/static/media/samsung .4567a223a4a58233f5bb.png",
     "static/media/loptop.png": "/ecommerceproject/static/media/loptop.2960508b73a72e349ef8.png",
     "static/media/watch.png": "/ecommerceproject/static/media/watch.f824741b7744ca5dfd16.png",
@@ -18,11 +18,11 @@
     "static/media/headphone.webp": "/ecommerceproject/static/media/headphone.81920df287c5c94002bf.webp",
     "static/media/gift2.png": "/ecommerceproject/static/media/gift2.3d614096b6ea9cd76f4f.png",
     "index.html": "/ecommerceproject/index.html",
-    "main.a86b1e17.css.map": "/ecommerceproject/static/css/main.a86b1e17.css.map",
-    "main.7300334d.js.map": "/ecommerceproject/static/js/main.7300334d.js.map"
+    "main.f4f8476c.css.map": "/ecommerceproject/static/css/main.f4f8476c.css.map",
+    "main.c79e269f.js.map": "/ecommerceproject/static/js/main.c79e269f.js.map"
   },
   "entrypoints": [
-    "static/css/main.a86b1e17.css",
-    "static/js/main.7300334d.js"
+    "static/css/main.f4f8476c.css",
+    "static/js/main.c79e269f.js"
   ]
 }
