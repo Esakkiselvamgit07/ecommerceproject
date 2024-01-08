@@ -1,14 +1,28 @@
 {
   "files": {
-    "main.css": "/ecommerceproject/static/css/main.ec7a65f3.css",
-    "main.js": "/ecommerceproject/static/js/main.4423c4a9.js",
+    "main.css": "/ecommerceproject/static/css/main.a86b1e17.css",
+    "main.js": "/ecommerceproject/static/js/main.7300334d.js",
+    "static/media/samsung .png": "/ecommerceproject/static/media/samsung .4567a223a4a58233f5bb.png",
+    "static/media/loptop.png": "/ecommerceproject/static/media/loptop.2960508b73a72e349ef8.png",
+    "static/media/watch.png": "/ecommerceproject/static/media/watch.f824741b7744ca5dfd16.png",
+    "static/media/sony tv.png": "/ecommerceproject/static/media/sony tv.777e92640c119962fea7.png",
+    "static/media/newsanta-removebg-preview.png": "/ecommerceproject/static/media/newsanta-removebg-preview.a20c48fe74027c36c987.png",
+    "static/media/oppo.png": "/ecommerceproject/static/media/oppo.d092d243a4d8657e2684.png",
+    "static/media/poco.png": "/ecommerceproject/static/media/poco.1c410a5da9ac1d395fee.png",
+    "static/media/gift4.png": "/ecommerceproject/static/media/gift4.cb0dd7dc3ef5e8b9573a.png",
+    "static/media/washingmachine.png": "/ecommerceproject/static/media/washingmachine.1d2a23fa1b73b0f46dd1.png",
+    "static/media/iphone.png": "/ecommerceproject/static/media/iphone.fe62780dd236796aba8c.png",
+    "static/media/gift1.png": "/ecommerceproject/static/media/gift1.0d6fbf259506b3cc2e5f.png",
+    "static/media/gift3.png": "/ecommerceproject/static/media/gift3.60f1c561886054e2a6b7.png",
     "static/media/e-com11.webp": "/ecommerceproject/static/media/e-com11.18e797532665dcd8532a.webp",
+    "static/media/headphone.webp": "/ecommerceproject/static/media/headphone.81920df287c5c94002bf.webp",
+    "static/media/gift2.png": "/ecommerceproject/static/media/gift2.3d614096b6ea9cd76f4f.png",
     "index.html": "/ecommerceproject/index.html",
-    "main.ec7a65f3.css.map": "/ecommerceproject/static/css/main.ec7a65f3.css.map",
-    "main.4423c4a9.js.map": "/ecommerceproject/static/js/main.4423c4a9.js.map"
+    "main.a86b1e17.css.map": "/ecommerceproject/static/css/main.a86b1e17.css.map",
+    "main.7300334d.js.map": "/ecommerceproject/static/js/main.7300334d.js.map"
   },
   "entrypoints": [
-    "static/css/main.ec7a65f3.css",
-    "static/js/main.4423c4a9.js"
+    "static/css/main.a86b1e17.css",
+    "static/js/main.7300334d.js"
   ]
 }
