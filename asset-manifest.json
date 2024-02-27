@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/ecommerceproject/static/css/main.72bf26de.css",
-    "main.js": "/ecommerceproject/static/js/main.4414931c.js",
+    "main.css": "/ecommerceproject/static/css/main.f13fce0f.css",
+    "main.js": "/ecommerceproject/static/js/main.c0c5fda1.js",
     "static/media/bg2.jpg": "/ecommerceproject/static/media/bg2.443a03e2a84e4739bd60.jpg",
     "static/media/mottonsukka.jpg": "/ecommerceproject/static/media/mottonsukka.fa02afbe46ce8afcd3d3.jpg",
     "static/media/masaldosa.jpg": "/ecommerceproject/static/media/masaldosa.89b412931760ef200db9.jpg",
@@ -28,11 +28,11 @@
     "static/media/bg4.avif": "/ecommerceproject/static/media/bg4.7c98b8ba5d93a7189257.avif",
     "static/media/amburbiryani.jpg": "/ecommerceproject/static/media/amburbiryani.7ff38e5529ce2e0a099b.jpg",
     "index.html": "/ecommerceproject/index.html",
-    "main.72bf26de.css.map": "/ecommerceproject/static/css/main.72bf26de.css.map",
-    "main.4414931c.js.map": "/ecommerceproject/static/js/main.4414931c.js.map"
+    "main.f13fce0f.css.map": "/ecommerceproject/static/css/main.f13fce0f.css.map",
+    "main.c0c5fda1.js.map": "/ecommerceproject/static/js/main.c0c5fda1.js.map"
   },
   "entrypoints": [
-    "static/css/main.72bf26de.css",
-    "static/js/main.4414931c.js"
+    "static/css/main.f13fce0f.css",
+    "static/js/main.c0c5fda1.js"
   ]
 }
