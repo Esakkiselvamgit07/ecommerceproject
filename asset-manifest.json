@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/ecommerceproject/static/css/main.d59db6de.css",
-    "main.js": "/ecommerceproject/static/js/main.c0d33894.js",
+    "main.css": "/ecommerceproject/static/css/main.70055cbd.css",
+    "main.js": "/ecommerceproject/static/js/main.236b497f.js",
     "static/media/good .mp4": "/ecommerceproject/static/media/good .00eb905ff9988aff057f.mp4",
     "static/media/mottonsukka.jpg": "/ecommerceproject/static/media/mottonsukka.fa02afbe46ce8afcd3d3.jpg",
     "static/media/masaldosa.jpg": "/ecommerceproject/static/media/masaldosa.89b412931760ef200db9.jpg",
@@ -12,6 +12,8 @@
     "static/media/hyderabadibiryani.jpg": "/ecommerceproject/static/media/hyderabadibiryani.54138c6ba17b82a448b2.jpg",
     "static/media/pizza.jpg": "/ecommerceproject/static/media/pizza.1b0a3246cbaf6814743c.jpg",
     "static/media/protta.jpg": "/ecommerceproject/static/media/protta.83ba8dc1a939c9642fdb.jpg",
+    "static/media/beefbiryani.jpg": "/ecommerceproject/static/media/beefbiryani.56f64ab2c89baaf7f2e1.jpg",
+    "static/media/french-fries-ai.jpg": "/ecommerceproject/static/media/french-fries-ai.ea08628ceb99bde2ce17.jpg",
     "static/media/chickenmasala.jpg": "/ecommerceproject/static/media/chickenmasala.bc6d131d8330402565b7.jpg",
     "static/media/friedchicken.jpg": "/ecommerceproject/static/media/friedchicken.b3b66b67ffb0775f5d69.jpg",
     "static/media/ceyloneparotta1.jpg": "/ecommerceproject/static/media/ceyloneparotta1.f843a05607f60ea68ac6.jpg",
@@ -24,12 +26,16 @@
     "static/media/upma.jpg": "/ecommerceproject/static/media/upma.2d195229b942050dd397.jpg",
     "static/media/chickencurryrice.avif": "/ecommerceproject/static/media/chickencurryrice.0c9263065ad645d789a7.avif",
     "static/media/amburbiryani.jpg": "/ecommerceproject/static/media/amburbiryani.7ff38e5529ce2e0a099b.jpg",
+    "static/media/slick.svg": "/ecommerceproject/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/ecommerceproject/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/ecommerceproject/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/ecommerceproject/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/ecommerceproject/index.html",
-    "main.d59db6de.css.map": "/ecommerceproject/static/css/main.d59db6de.css.map",
-    "main.c0d33894.js.map": "/ecommerceproject/static/js/main.c0d33894.js.map"
+    "main.70055cbd.css.map": "/ecommerceproject/static/css/main.70055cbd.css.map",
+    "main.236b497f.js.map": "/ecommerceproject/static/js/main.236b497f.js.map"
   },
   "entrypoints": [
-    "static/css/main.d59db6de.css",
-    "static/js/main.c0d33894.js"
+    "static/css/main.70055cbd.css",
+    "static/js/main.236b497f.js"
   ]
 }
